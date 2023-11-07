@@ -1,0 +1,31 @@
+<----- TITLE ----->
+
+Weather App
+
+
+
+<----- UNITS ----->
+
+&#176C 
+
+&#176F
+
+
+
+<----- BODY ----->
+
+Min: 12&#176 
+
+Max: 16&#176
+
+
+
+<----- CARDS ----->
+
+Temperature - 18&#176
+
+Humidity - 18&#176
+
+Wind - 18&#176
+
+Pressure - 18&#176
