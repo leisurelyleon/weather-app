@@ -1,11 +1,11 @@
-/*
-- GOOGLE: CUSTOM FONT
+/**
+ - GOOGLE: CUSTOM FONT
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-/*
-- COLOR PALETTE
+/**
+ - COLOR PALETTE
 */
 
 :root {
@@ -17,10 +17,11 @@
     --sun-yellow: rgb(255, 191, 0);
     --sun-red-tint-brown: rgb(208, 49, 0);
     --rain-blue: rgb(98, 148, 255);
+    --rain-gray: rgb(55, 55, 55);
 }
 
-/*
-- WEATHER BOX
+/**
+ - WEATHER BOX
 */
 
 *{
@@ -141,8 +142,8 @@ input::placeholder {
     font-size: 14px;
 }
 
-/*
-- BREAKPOINTS
+/**
+ - BREAKPOINTS
 */
 
 @media(max-width: 936px){
